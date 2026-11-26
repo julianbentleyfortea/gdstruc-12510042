@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/gdstruc-12510042.iml" filepath="$PROJECT_DIR$/gdstruc-12510042.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity%201/gdstruc-12510042.iml" filepath="$PROJECT_DIR$/Activity 1/gdstruc-12510042.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity%202/Activity2.iml" filepath="$PROJECT_DIR$/Activity 2/Activity2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity%203/Activity3.iml" filepath="$PROJECT_DIR$/Activity 3/Activity3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity%204/Activity4.iml" filepath="$PROJECT_DIR$/Activity 4/Activity4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity%205/Activity5.iml" filepath="$PROJECT_DIR$/Activity 5/Activity5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Activity%206/Activity6.iml" filepath="$PROJECT_DIR$/Activity 6/Activity6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterms/Midterms.iml" filepath="$PROJECT_DIR$/Midterms/Midterms.iml" />
     </modules>
   </component>
 </project>

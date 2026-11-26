@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class Activity1Main {
     public static void main(String[] args) {
         int[] numbers = {2, 10, 56, 34, 83, 6, 45, 67};
         bubbleSort(numbers.clone());

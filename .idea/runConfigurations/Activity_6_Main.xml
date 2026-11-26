@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Activity 6 Main" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Activity6Main" />
+    <module name="Activity6" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Activity 6" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
